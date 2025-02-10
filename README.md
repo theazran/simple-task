@@ -2,7 +2,7 @@
 
 A minimalist task management application built with React, TypeScript, and Tailwind CSS. Features a beautiful brutalist design inspired by bolt.new.
 
-![Simple TASK Screenshot](https://github.com/user-attachments/assets/60dd9821-f3f3-4e63-94b8-d733d0935ab2)
+![Simple TASK Screenshot](https://github.com/user-attachments/assets/cb676f72-fd32-4f42-be8d-0015605c153a)
 
 ## Features
 
